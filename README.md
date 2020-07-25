@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**AM  Ochieng' Boaz**
+**Am  Ochieng' Boaz**
 
 
 <!---is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!----->

@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-[![BozzieWilliams's github stats](https://github-readme-stats.vercel.app/api?username=BozzieWilliams)](https://github.com/BozzieWilliams/github-readme-stats)
+<!---[![BozzieWilliams's github stats](https://github-readme-stats.vercel.app/api?username=BozzieWilliams)](https://github.com/BozzieWilliams/github-readme-stats)!---->
 ![BozzieWilliams's github stats](https://github-readme-stats.vercel.app/api?username=BozzieWilliams&count_private=true)
 
 # - 🔭 I’m currently working on ...

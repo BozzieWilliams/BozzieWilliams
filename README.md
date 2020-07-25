@@ -24,5 +24,8 @@ Google Street Maps Access Token
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... !--------->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BozzieWilliams)](https://github.com/BozzieWilliams/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BozzieWilliams&repo=github-readme-stats)](https://github.com/BozzieWilliams/github-readme-stats)
 

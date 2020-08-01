@@ -31,5 +31,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BozzieWilliams)](https://github.com/BozzieWilliams/github-readme-stats)
 
+<img src=”https://komarev.com/ghpvc/?username=BozzieWilliams" alt=”BozzieWilliams” />
+
 
 

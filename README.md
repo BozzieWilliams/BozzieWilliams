@@ -37,8 +37,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BozzieWilliams)](https://github.com/BozzieWilliams/github-readme-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=BozzieWilliams)
-
 ## Tools and Technologies
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg"></code>
@@ -73,5 +71,5 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/angel/angel-ar21.svg"></code>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=BozzieWilliams)
 

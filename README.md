@@ -27,8 +27,6 @@
 <!---💬 Ask me about ...!--->
 - 📫 How to reach me: ...
 
-[gmail](bozziewilliams@gmail.com)
-
 [LinkedIn](https://www.linkedin.com/in/boaz-ochieng-467b11b2)
 
 [Twitter](https://twitter.com/WhillozB)

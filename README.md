@@ -24,10 +24,18 @@
     1: Google Street Maps Access Token
 
 
-<!------ 💬 Ask me about ...
+<!---💬 Ask me about ...!--->
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... !--------->
+
+[gmail](bozziewilliams@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/boaz-ochieng-467b11b2)
+
+[Twitter](https://twitter.com/WhillozB)
+
+[Facebook](https://www.facebook.com/bozzie.williams/)
+<!---- 😄 Pronouns: ...
+- ⚡ Fun fact: ... !--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BozzieWilliams)](https://github.com/BozzieWilliams/github-readme-stats)
 

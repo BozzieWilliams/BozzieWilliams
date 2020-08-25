@@ -9,7 +9,7 @@
 <!---Here are some ideas to get you started:!----->
 
 <!---[![BozzieWilliams's github stats](https://github-readme-stats.vercel.app/api?username=BozzieWilliams)](https://github.com/BozzieWilliams/github-readme-stats)!---->
-![BozzieWilliams's github stats](https://github-readme-stats.vercel.app/api?username=BozzieWilliams&count_private=true&show_icons=true&theme=radical)
+    ![BozzieWilliams's github stats](https://github-readme-stats.vercel.app/api?username=BozzieWilliams&count_private=true&show_icons=true&theme=radical)
 
 # - 🔭 I’m currently working on ...
 
@@ -27,17 +27,17 @@
 <!---💬 Ask me about ...!--->
 - 📫 How to reach me: ...
 
-[LinkedIn](https://www.linkedin.com/in/boaz-ochieng-467b11b2)
+    [LinkedIn](https://www.linkedin.com/in/boaz-ochieng-467b11b2)
 
-[Twitter](https://twitter.com/WhillozB)
+    [Twitter](https://twitter.com/WhillozB)
 
-[Facebook](https://www.facebook.com/bozzie.williams/)
+    [Facebook](https://www.facebook.com/bozzie.williams/)
 <!---- 😄 Pronouns: ...
 - ⚡ Fun fact: ... !--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BozzieWilliams)](https://github.com/BozzieWilliams/github-readme-stats)
 
-## Tools and Technologies
+# Tools and Technologies
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg"></code>
 <code><img height="50" src=https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg></code>
@@ -71,5 +71,5 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/angel/angel-ar21.svg"></code>
 
-![Profile Views](https://komarev.com/ghpvc/?username=BozzieWilliams)
+   ![Profile Views](https://komarev.com/ghpvc/?username=BozzieWilliams)
 

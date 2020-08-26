@@ -48,6 +48,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>

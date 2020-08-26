@@ -39,6 +39,7 @@
 
 # Tools and Technologies
 
+<code><img height="50" src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg"></code>
 <code><img height="50" src=https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>

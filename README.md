@@ -11,18 +11,18 @@
 <!---[![BozzieWilliams's github stats](https://github-readme-stats.vercel.app/api?username=BozzieWilliams)](https://github.com/BozzieWilliams/github-readme-stats)!---->
    ![BozzieWilliams's github stats](https://github-readme-stats.vercel.app/api?username=BozzieWilliams&count_private=true&show_icons=true&theme=radical)
 
-# - 🔭 I’m currently working on ...
+<!------ # - 🔭 I’m currently working on ...
 
     1: Turn-Based JavaScript Board Game
     
-    2: Restaurant Review Website Using React Library and Google Street-view API
+    2: Restaurant Review Website Using React Library and Google Street-view API!------->
     
 <!------ 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...!------->
-# - 🤔 I’m looking for help with ...
+<!------ # - 🤔 I’m looking for help with ...
 
     1: Google Street Maps Access Token
-
+!------->
 
 <!---💬 Ask me about ...!--->
 - 📫 How to reach me: ...

@@ -15,7 +15,7 @@
 
     1: Turn-Based JavaScript Board Game
     
-    2: Restaurant Review Website Using React Library and Google Street-view API
+   <!------ 2: Restaurant Review Website Using React Library and Google Street-view API!------->
     
 <!------ 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...!------->

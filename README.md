@@ -28,7 +28,8 @@
 <!---💬 Ask me about ...!--->
 - 📫 How to reach me: ...
 
-    [LinkedIn](https://www.linkedin.com/in/boaz-ochieng-467b11b2)
+  <!---  [LinkedIn](https://www.linkedin.com/in/boaz-ochieng-467b11b2)!------->
+
 
     [Twitter](https://twitter.com/WhillozB)
 

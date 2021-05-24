@@ -77,9 +77,5 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/angel/angel-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mapbox/mapbox-ar21.svg"></code>
-
-
-
    ![Profile Views](https://komarev.com/ghpvc/?username=BozzieWilliams)
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=BozzieWilliams&" alt="BozzieWilliams" /></p>
 
